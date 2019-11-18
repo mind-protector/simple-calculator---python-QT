@@ -1,5 +1,5 @@
 # calculator---python-QT
-Simple calculator created with QT and python
+Simple calculator created with QT and python (You don't need to install any modules)
 
 P.S.
 
